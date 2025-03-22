@@ -26,6 +26,12 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### 4. Install conda environment
+```bash
+conda env create -f environment.yml
+conda activate stock-valuation
+```
+
 ## Usage
 Run the Jupyter Notebook to perform the valuation analysis:
 ```bash

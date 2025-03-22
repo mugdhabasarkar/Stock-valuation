@@ -1,0 +1,17 @@
+name: stock-valuation
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pandas
+  - numpy
+  - matplotlib
+  - statsmodels
+  - dash
+  - plotly
+  - jupyter
+  - yfinance
+  - pip
+  - pip:
+    - dash-bootstrap-components

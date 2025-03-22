@@ -24,6 +24,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
+python -m unittest test_finance_functions.py
 ```
 
 ### 4. Install conda environment

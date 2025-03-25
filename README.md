@@ -35,7 +35,7 @@ stock-valuation/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-valuation.git
+   git clone https://github.com/mugdhabasarkar/stock-valuation.git
    cd stock-valuation
    ```
 
